@@ -1,0 +1,2 @@
+# Curso_Pensamiento_Computacional_Python
+Curso de Pensamiento Computacional
